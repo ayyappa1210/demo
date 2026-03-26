@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: demo
+
+
+mysql:
+    enabled: true
+nosql:
+    enabled: true

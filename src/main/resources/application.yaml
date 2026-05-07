@@ -6,4 +6,6 @@ spring:
 mysql:
     enabled: true
 nosql:
-    enabled: true
+    enabled: false
+
+isOnlineOrder: false
